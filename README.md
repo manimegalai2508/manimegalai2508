@@ -1,7 +1,7 @@
 ### Hi there, I'm Manimegalai 👋
 
-- 👀 I’m passionate about blending tech and business, especially in full-stack development, data analytics, business intelligence, and project management.
-- 🌱 Currently diving into advanced MERN stack concepts and data-driven strategies.
+- A highly driven individual looking for a challenging position in an organization specializing in tech to
+contribute to its success while advancing my professional and personal growth.
 - 💼 Ready to collaborate on scaling businesses and making smarter decisions with data.
 - 📫 Reach me at: [iam.manimegalai25@gmail.com](mailto:iam.manimegalai25@gmail.com)
 - 😄 Pronouns: she/her
